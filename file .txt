@@ -1,2 +1,2 @@
 sec  testr
-sec
+sec  clean
